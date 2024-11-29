@@ -7,7 +7,6 @@ function numeroDeCaracteres(texto, caracter) {
     }
     return contador; // Retornamos el total
 }
-
 // Código de prueba
 console.log(numeroDeCaracteres("Hola Mundo", "o")); // 2
 console.log(numeroDeCaracteres("MMMMM", "m")); // 0
